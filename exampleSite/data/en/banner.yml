@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: ''
+  bg_image: "/images/royal-palms-mijas-piscina-2.jpg"
   icon: ''
   title: Royal Palms La Cala de Mijas
   content: Luxury new apartments. Close to golf and the beach
