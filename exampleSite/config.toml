@@ -1,10 +1,10 @@
-baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
-disableLanguages = []
+baseURL = "www.royalpalmslacalademijas.com"
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
-title = "Meghna"
+theme = "Royal palms"
+title = "Royal Palms"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
