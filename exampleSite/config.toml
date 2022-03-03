@@ -57,7 +57,7 @@ weight = 8
 author = "Space Marbella Real Estate"
 description = "Royal Palms La Cala de Mijas New Development"
 google_analytics_id = ""
-logo = ""
+logo = "/images/logo.png"
 post_share = true
 social = []
 [params.cookies]
