@@ -7,7 +7,7 @@ theme = "Royal palms"
 title = "Royal Palms"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2022 Developed by [Space Real Estate](www.spacemarbella.com)"
+copyright = "Copyright &copy; 2022 Developed by [Space Real Estate](https://www.spacemarbella.com/)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
